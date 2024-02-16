@@ -11,3 +11,5 @@
 - Boosted Infrence on GPU using Accelerate: NVIDIA 3080 3hrs Infrence time
 
 - around 6K reviews assigned a new sentiment based on LLM Bert Large;  12% of the dataset
+
+- Improved dataset with LLM labels: https://drive.google.com/file/d/1Kbzlp0pV9jjUJjHf2C4oYDseEXADPZux/view?usp=sharing
