@@ -4,7 +4,7 @@
 
 - Dataset link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download
 
-- Model: Bert Meta Large
+- Model: Bert Meta Large 407 Million Parameters
 
 - Labels = Positive | Negative | Neutral 
 
